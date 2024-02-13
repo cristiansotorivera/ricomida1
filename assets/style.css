@@ -1,0 +1,122 @@
+
+body {
+	font-family: 'Cabin', sans-serif;
+	font-size: 20px;
+}
+
+html {
+
+	scroll-behavior: smooth;
+}
+
+/* navbar */
+
+.navbar-brand span {
+	font-family: 'Lobster', sans-serif;
+	font-size: 37px;
+}
+
+header h1 {
+	font-weight: 700;
+}
+
+header h2 {
+	font-size: 20px;
+	font-weight: 700;
+	margin-top: 20px;
+	padding-top: 20px;
+	border-top: solid 1px black;
+	
+}
+
+button {
+	margin-left: 20px;
+}
+
+/* images carrousel */
+
+#images-section {
+	border-bottom: solid 1px black;
+}
+
+.carousel-indicators li {
+	background-color: black;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+}
+
+.carousel-indicators {
+	top: 200px;
+	border-radius: 50%;
+}
+
+/* preparation */
+
+#prep-section ol {
+	margin-left: 15px;
+  	padding: 0;
+}
+
+#prep-section ol li {
+	margin-bottom: 15px;
+  	padding: 0;
+}
+
+#prep-section h3{
+	display: inline-block;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: solid 1px black;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+/* recipes */
+
+#recipes-section h2 {
+	border-top: solid 1px black;
+	font-size: 50px;
+	font-weight: 700;
+}
+
+#recipes-section .card-title {
+	font-size: 25px;
+	font-weight: 700;
+}
+
+#recipes-section .card-text {
+	font-size: 16px;
+}
+
+
+/* newsletter and footer */
+
+#suscribe-section h2 {
+	font-size: 40px;
+	font-weight: 700;
+}
+
+#suscribe-section h3 {
+	font-size: 25px;
+	font-weight: 400;
+}
+
+#suscribe-section button {
+	width: 20%;
+}
+
+#suscribe-section h3 span,
+footer h2 {
+	font-family: 'Lobster';
+}
+
+footer h2 {
+	margin: 0;
+	font-size: 37px;
+}
+
+
+
+
+
